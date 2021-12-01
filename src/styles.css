@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  max-width: 80%;
+  margin: auto;
+  padding: 1rem;
+  border: 0.2rem black solid;
+  display: block;
+  font-size: 1.5rem;
+}
+.data {
+  font-size: 2rem;
+}
+ul {
+  text-decoration: none;
+  text-align: center;
+  margin: 1rem;
+}
+li {
+  text-decoration: none;
+  display: inline;
+  font-size: 2rem;
+  padding: 0.4rem;
+  margin: 1rem;
+  cursor: pointer;
+}

@@ -1,2 +1,2 @@
-# EmojisTeller
+# EmojiTellerReactApp
 Created with CodeSandbox
